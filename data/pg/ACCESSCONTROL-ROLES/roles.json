@@ -1026,6 +1026,66 @@
       "roleCode": "ADS_DASHBOARD_VIEWER",
       "roleName": "Ads Dashboard Viewer",
       "description": "Ads Dashboard Viewer"
+    },
+    {
+      "code": "NDC REPORTS",
+      "name": "NDC REPORTS",
+      "description": "Access to all NDC Reports"
+    },
+    {
+      "code": "NDCADMIN",
+      "name": "Admin NDC Role",
+      "description": "Access to NDC"
+    },
+    {
+      "code": "NDCCEMP",
+      "name": "NDC Counter Employee",
+      "description": "NDC Counter Employee"
+    },
+    {
+      "code": "NDC_ADMIN",
+      "name": "Search NDC Role",
+      "description": "Access to NDC"
+    },
+    {
+      "code": "NDC_ADMIN_ROLE",
+      "name": "Admin NDC Role",
+      "description": "Access to NDC"
+    },
+    {
+      "code": "NDC_APPROVER",
+      "name": "NDC Approver",
+      "description": "No Dues Certificate Approver"
+    },
+    {
+      "code": "NDC_BPA_VERIFIER",
+      "name": "NDC BPA Verifier",
+      "description": "No Dues Verifier for BPA Service"
+    },
+    {
+      "code": "NDC_DOC_VERIFIER",
+      "name": "NDC Document Verifier",
+      "description": "No Dues Document Verifier"
+    },
+    {
+      "code": "NDC_PT_VERIFIER",
+      "name": "NDC Property Verifier",
+      "description": "No Dues Verifier for Property "
+    },
+    {
+      "code": "CHALLAN REPORTS",
+      "name": "Challan Reports",
+      "description": "Who can see challan reports "
+    },
+    {
+      "code": "CHALLAN_ADMIN",
+      "name": "Challan Admin",
+      "description": "Who create and handle the challan "
+    },
+    {
+      "code": "VIEW_CHALLANGENERATION_CARD",
+      "name": "View Challan Generation Card",
+      "description": "For Challan Generation Card Display in Dashboard"
     }
   ]
 }

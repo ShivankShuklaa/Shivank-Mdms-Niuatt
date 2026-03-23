@@ -35503,6 +35503,138 @@
     "actionid": 4399,
     "actioncode": "",
     "tenantId": "pg"
-  }
+  },
+  {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4407,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4408,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4409,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "NDCADMIN",
+      "actionid": 4400,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 4400,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4400,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4400,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDCADMIN",
+      "actionid": 4401,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 4401,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4401,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4401,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDCADMIN",
+      "actionid": 4402,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 4402,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4402,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+     {
+      "rolecode": "NDCADMIN",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 4404,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "NDCADMIN",
+      "actionid": 4404,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4404,
+      "actioncode": "",
+      "tenantid": "pb"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4404,
+      "actioncode": "",
+      "tenantid": "pb"
+    }
   ]
 }

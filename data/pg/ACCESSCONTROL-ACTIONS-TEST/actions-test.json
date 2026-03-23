@@ -26342,15 +26342,126 @@
     "path": ""
   },
   {
-         "id": 4399,
-         "name": "Role Base Employee Dashboard Search",
-         "url": "/employee-dashboard/v2/_search",
-         "displayName": "Employee City Dashboard v2",
-         "orderNumber": 1,
-         "enabled": false,
-         "serviceCode": "employee-dashboard",
-         "code": "null",
-         "path": ""
-   }
+     "id": 4399,
+     "name": "Role Base Employee Dashboard Search",
+     "url": "/employee-dashboard/v2/_search",
+     "displayName": "Employee City Dashboard v2",
+     "orderNumber": 1,
+     "enabled": false,
+     "serviceCode": "employee-dashboard",
+     "code": "null",
+     "path": ""
+   },
+   {
+      "id": 4400,
+      "name": "Create NDC Application",
+      "url": "/ndc-services/ndc/_create",
+      "displayName": "Create NDC Application",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4401,
+      "name": "Update NDC Application",
+      "url": "/ndc-services/ndc/_update",
+      "displayName": "Update NDC Application",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4402,
+      "name": "Delete NDC Application",
+      "url": "/ndc-services/ndc/_delete",
+      "displayName": "Delete NDC Application",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4403,
+      "name": "Search NDC Application",
+      "url": "/ndc-services/ndc/_search",
+      "displayName": "Search NDC Application",
+      "orderNumber": 4,
+      "enabled": true,
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4404,
+      "name": "NDC calculator",
+      "url": "/ndc-calculator/v1/_calculate",
+      "displayName": "Calculator NDC Application",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "ndc-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4405,
+      "name": "NDC calculator update demand",
+      "url": "/ndc-calculator/v1/_updatedemand",
+      "displayName": "Calculator NDC Application updatedemand",
+      "orderNumber": 5,
+      "enabled": true,
+      "serviceCode": "ndc-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4406,
+      "name": "NDC Payment search",
+      "url": "/collection-services/payments/NDC/_search",
+      "displayName": "NDC Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4407,
+      "name": "Create Challan Generation",
+      "url": "/challan-generation/challan/_create",
+      "displayName": "Create Challan Generation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "challan-generation",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4408,
+      "name": "Update Challan Generation",
+      "url": "/challan-generation/challan/_update",
+      "displayName": "Update Challan Generation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "challan-generation",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 4409,
+      "name": "Search Challan Generation",
+      "url": "/challan-generation/challan/_search",
+      "displayName": "Search Challan Generation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "challan-generation",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
