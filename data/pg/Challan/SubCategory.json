@@ -1,6 +1,6 @@
 {
-  "tenantId": "pb",
-  "moduleName": "Challan",
+  "tenantId": "pg",
+  "moduleName":"Challan",
   "SubCategory": [
     {
       "id": "SC101",
