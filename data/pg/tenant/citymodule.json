@@ -1189,8 +1189,8 @@
       ]
     },
     {
-      "module": "UC",
-      "code": "UC",
+      "module": "ChallanGeneration",
+      "code": "ChallanGeneration",
       "active": true,
       "order":1,
       "tenants": [
