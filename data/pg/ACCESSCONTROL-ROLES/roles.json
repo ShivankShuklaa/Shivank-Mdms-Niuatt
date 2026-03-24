@@ -1070,17 +1070,17 @@
     {
       "code": "NDC_PT_VERIFIER",
       "name": "NDC Property Verifier",
-      "description": "No Dues Verifier for Property "
+      "description": "No Dues Verifier for Property"
     },
     {
       "code": "CHALLAN REPORTS",
       "name": "Challan Reports",
-      "description": "Who can see challan reports "
+      "description": "Who can see challan reports"
     },
     {
       "code": "CHALLAN_ADMIN",
       "name": "Challan Admin",
-      "description": "Who create and handle the challan "
+      "description": "Who create and handle the challan"
     },
     {
       "code": "VIEW_CHALLANGENERATION_CARD",

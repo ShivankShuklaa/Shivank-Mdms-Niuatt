@@ -35677,7 +35677,36 @@
       "actionid": 4413,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4414,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4415,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4416,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4417,
+      "actioncode": "",
+      "tenantId": "pb"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4418,
+      "actioncode": "",
+      "tenantId": "pb"
     }
-
   ]
 }
