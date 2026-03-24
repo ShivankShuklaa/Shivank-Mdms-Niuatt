@@ -26530,6 +26530,71 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ndc-home"
+    },
+    {
+      "id": 4414,
+      "name": "Challan Inbox",
+      "url": "url",
+      "displayName": "Search Challan Application",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "ChallanGeneration",
+      "enabled": true,
+      "serviceCode": "ChallanGeneration",
+      "code": "null",
+      "path": "ChallanGeneration.ChallanGeneration Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/challangeneration/inbox",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
+    },
+    {
+      "id": 4415,
+      "name": "Create Application",
+      "url": "url",
+      "displayName": "Create New Challan",
+      "orderNumber": 2,
+      "queryParams": "",
+      "parentModule": "ChallanGeneration",
+      "enabled": true,
+      "serviceCode": "ChallanGeneration",
+      "code": "null",
+      "path": "ChallanGeneration.ChallanGeneration Reports.HRMSEmployee wise Report",
+      "navigationURL": "/digit-ui/employee/challangeneration/generate-challan",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+    {
+      "id": 4416,
+      "name": "Create Challan Generation",
+      "url": "/challan-generation/challan/_create",
+      "displayName": "Create Challan Generation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "challan-generation",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4417,
+      "name": "Update Challan Generation",
+      "url": "/challan-generation/challan/_update",
+      "displayName": "Update Challan Generation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "challan-generation",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4418,
+      "name": "Search Challan Generation",
+      "url": "/challan-generation/challan/_search",
+      "displayName": "Search Challan Generation",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "challan-generation",
+      "code": "null",
+      "path": ""
     }
   ]
 }
