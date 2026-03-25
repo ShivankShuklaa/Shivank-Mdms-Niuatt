@@ -1086,6 +1086,16 @@
       "code": "VIEW_CHALLANGENERATION_CARD",
       "name": "View Challan Generation Card",
       "description": "For Challan Generation Card Display in Dashboard"
+    },
+    {
+      "code": "NDC_TL_VERIFIER",
+      "name": "NDC Property Verifier",
+      "description": "No Dues Verifier for Trade License"
+    },
+    {
+      "code": "NDC_SW_WS_VERIFIER",
+      "name": "NDC SW WS Verifier",
+      "description": "No Dues Verifier for SW and WS"
     }
   ]
 }
