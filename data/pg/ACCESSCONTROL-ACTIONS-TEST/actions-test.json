@@ -26595,6 +26595,22 @@
       "serviceCode": "challan-generation",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 4419,
+      "name": "NDC Inbox",
+      "url": "url",
+      "displayName": "No Due Certificate Inbox",
+      "orderNumber": 1,
+      "queryParams": "",
+      "parentModule": "rainmaker-hrms",
+      "enabled": true,
+      "serviceCode": "NDC",
+      "code": "null",
+      "path": "NDC.NDC Reports.HRMSEmployee wise Report",
+      "navigationURL": "/upyog-ui/employee/ndc/inbox",
+      "leftIcon": "custom:open-NDCMODULE",
+      "rightIcon": ""
     }
   ]
 }
