@@ -1369,5 +1369,24 @@
       "isStateLevel": true,
       "uniqueKeys": []
     }
+  },
+  "ndc": {
+    "NdcFee": {
+      "masterName": "NdcFee",
+      "isStateLevel": false,
+      "uniqueKeys": []
+    }
+  },
+  "NDC": {
+    "Documents": {
+      "masterName": "Documents",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "Reasons": {
+      "masterName": "Reasons",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    }
   }
 }
