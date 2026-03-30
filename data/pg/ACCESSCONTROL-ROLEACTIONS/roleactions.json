@@ -35924,6 +35924,49 @@
       "actionid": 4403,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "NDCADMIN",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_SW_WS_VERIFIER",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantId": "pg"
     }
+
   ]
 }
