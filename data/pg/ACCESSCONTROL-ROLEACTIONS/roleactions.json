@@ -36199,6 +36199,12 @@
       "actionid": 2156,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4120,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

@@ -26611,6 +26611,17 @@
       "navigationURL": "/upyog-ui/employee/ndc/inbox",
       "leftIcon": "custom:open-NDCMODULE",
       "rightIcon": ""
+    },
+     {
+      "id": 4120,
+      "name": "Challan Collection Search Reciept",
+      "url": "/collection-services/payments/Challan_Generation/_search",
+      "displayName": "Search Payment",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "COLLECTION",
+      "code": "null",
+      "path": ""
     }
   ]
 }
