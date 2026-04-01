@@ -26613,7 +26613,7 @@
       "rightIcon": ""
     },
      {
-      "id": 4120,
+      "id": 4420,
       "name": "Challan Collection Search Reciept",
       "url": "/collection-services/payments/Challan_Generation/_search",
       "displayName": "Search Payment",
