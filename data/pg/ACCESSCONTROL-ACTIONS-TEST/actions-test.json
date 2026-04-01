@@ -26543,7 +26543,7 @@
       "serviceCode": "ChallanGeneration",
       "code": "null",
       "path": "ChallanGeneration.ChallanGeneration Reports.HRMSEmployee wise Report",
-      "navigationURL": "/digit-ui/employee/challangeneration/inbox",
+      "navigationURL": "/upyog-ui/employee/challangeneration/inbox",
       "leftIcon": "custom:open-NDCMODULE",
       "rightIcon": ""
     },
@@ -26559,7 +26559,7 @@
       "serviceCode": "ChallanGeneration",
       "code": "null",
       "path": "ChallanGeneration.ChallanGeneration Reports.HRMSEmployee wise Report",
-      "navigationURL": "/digit-ui/employee/challangeneration/generate-challan",
+      "navigationURL": "/upyog-ui/employee/challangeneration/generate-challan",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },

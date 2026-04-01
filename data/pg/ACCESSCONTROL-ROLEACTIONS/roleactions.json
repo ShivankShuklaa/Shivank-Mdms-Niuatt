@@ -35682,31 +35682,31 @@
       "rolecode": "CHALLAN_ADMIN",
       "actionid": 4414,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "pg"
     },
     {
       "rolecode": "CHALLAN_ADMIN",
       "actionid": 4415,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "pg"
     },
     {
       "rolecode": "CHALLAN_ADMIN",
       "actionid": 4416,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "pg"
     },
     {
       "rolecode": "CHALLAN_ADMIN",
       "actionid": 4417,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "pg"
     },
     {
       "rolecode": "CHALLAN_ADMIN",
       "actionid": 4418,
       "actioncode": "",
-      "tenantId": "pb"
+      "tenantId": "pg"
     },
     {
       "rolecode": "NDCCEMP",
@@ -36161,6 +36161,42 @@
     {
       "rolecode": "NDC_SW_WS_VERIFIER",
       "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 2156,
       "actioncode": "",
       "tenantId": "pg"
     }
