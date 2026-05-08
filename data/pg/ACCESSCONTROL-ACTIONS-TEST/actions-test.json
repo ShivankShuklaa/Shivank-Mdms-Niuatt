@@ -1511,7 +1511,7 @@
       "url": "/user/_logout",
       "displayName": "Delete Token",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.Delete Token"
