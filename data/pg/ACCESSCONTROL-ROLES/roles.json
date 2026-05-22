@@ -938,93 +938,93 @@
       "description": "GIS Role for employees"
     },
     {
-      "roleCode": "MT_DRIVER",
-      "roleName": "Mobile Toilet Driver role",
+      "code": "MT_DRIVER",
+      "name": "Mobile Toilet Driver role",
       "description": "Mobile Toilet Driver"
     },
     {
-      "roleCode": "OBPAS_DASHBOARD_VIEWER",
-      "roleName": "OBPAS Dashboard Viewer",
+      "code": "OBPAS_DASHBOARD_VIEWER",
+      "name": "OBPAS Dashboard Viewer",
       "description": "OBPAS Dashboard Viewer"
     },
     {
-      "roleCode": "ASSET_DASHBOARD_VIEWER",
-      "roleName": "Asset Dashboard Viewer",
+      "code": "ASSET_DASHBOARD_VIEWER",
+      "name": "Asset Dashboard Viewer",
       "description": "Asset Dashboard Viewer"
     },
     {
-      "roleCode": "FSM_DASHBOARD_VIEWER",
-      "roleName": "FSM Dashboard Viewer",
+      "code": "FSM_DASHBOARD_VIEWER",
+      "name": "FSM Dashboard Viewer",
       "description": "FSM Dashboard Viewer"
     },
     {
-      "roleCode": "PGR_DASHBOARD_VIEWER",
-      "roleName": "PGR Dashboard Viewer",
+      "code": "PGR_DASHBOARD_VIEWER",
+      "name": "PGR Dashboard Viewer",
       "description": "PGR Dashboard Viewer"
     },
     {
-      "roleCode": "CHB_DASHBOARD_VIEWER",
-      "roleName": "CHB Dashboard Viewer",
+      "code": "CHB_DASHBOARD_VIEWER",
+      "name": "CHB Dashboard Viewer",
       "description": "CHB Dashboard Viewer"
     },
     {
-      "roleCode": "PTR_DASHBOARD_VIEWER",
-      "roleName": "PTR Dashboard Viewer",
+      "code": "PTR_DASHBOARD_VIEWER",
+      "name": "PTR Dashboard Viewer",
       "description": "PTR Dashboard Viewer"
     },
     {
-      "roleCode": "EW_DASHBOARD_VIEWER",
-      "roleName": "EW Dashboard Viewer",
+      "code": "EW_DASHBOARD_VIEWER",
+      "name": "EW Dashboard Viewer",
       "description": "EW Dashboard Viewer"
     },
     {
-      "roleCode": "TL_DASHBOARD_VIEWER",
-      "roleName": "TL Dashboard Viewer",
+      "code": "TL_DASHBOARD_VIEWER",
+      "name": "TL Dashboard Viewer",
       "description": "TL Dashboard Viewer"
     },
     {
-      "roleCode": "WATER_DASHBOARD_VIEWER",
-      "roleName": "Water Dashboard Viewer",
+      "code": "WATER_DASHBOARD_VIEWER",
+      "name": "Water Dashboard Viewer",
       "description": "Water Dashboard Viewer"
     },
     {
-      "roleCode": "PT_DASHBOARD_VIEWER",
-      "roleName": "PT Dashboard Viewer",
+      "code": "PT_DASHBOARD_VIEWER",
+      "name": "PT Dashboard Viewer",
       "description": "PT Dashboard Viewer"
     },
     {
-      "roleCode": "SEWERAGE_DASHBOARD_VIEWER",
-      "roleName": "Sewerage Dashboard Viewer",
+      "code": "SEWERAGE_DASHBOARD_VIEWER",
+      "name": "Sewerage Dashboard Viewer",
       "description": "Sewerage Dashboard Viewer"
     },
     {
-      "roleCode": "SV_DASHBOARD_VIEWER",
-      "roleName": "SV Dashboard Viewer",
+      "code": "SV_DASHBOARD_VIEWER",
+      "name": "SV Dashboard Viewer",
       "description": "SV Dashboard Viewer"
     },
     {
-      "roleCode": "CND_DASHBOARD_VIEWER",
-      "roleName": "CND Dashboard Viewer",
+      "code": "CND_DASHBOARD_VIEWER",
+      "name": "CND Dashboard Viewer",
       "description": "CND Dashboard Viewer"
     },
     {
-      "roleCode": "MT_DASHBOARD_VIEWER",
-      "roleName": "Mobile Toilet Dashboard Viewer",
+      "code": "MT_DASHBOARD_VIEWER",
+      "name": "Mobile Toilet Dashboard Viewer",
       "description": "Mobile Toilet Dashboard Viewer"
     },
     {
-      "roleCode": "WT_DASHBOARD_VIEWER",
-      "roleName": "Water Tank Dashboard Viewer",
+      "code": "WT_DASHBOARD_VIEWER",
+      "name": "Water Tank Dashboard Viewer",
       "description": "Water Tank Dashboard Viewer"
     },
      {
-      "roleCode": "TP_DASHBOARD_VIEWER",
-      "roleName": "Tree Pruning Dashboard Viewer",
+      "code": "TP_DASHBOARD_VIEWER",
+      "name": "Tree Pruning Dashboard Viewer",
       "description": "Tree Pruning Dashboard Viewer"
     },
     {
-      "roleCode": "ADS_DASHBOARD_VIEWER",
-      "roleName": "Ads Dashboard Viewer",
+      "code": "ADS_DASHBOARD_VIEWER",
+      "name": "Ads Dashboard Viewer",
       "description": "Ads Dashboard Viewer"
     },
     {
