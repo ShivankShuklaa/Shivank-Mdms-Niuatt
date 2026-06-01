@@ -1096,6 +1096,16 @@
       "code": "NDC_SW_WS_VERIFIER",
       "name": "NDC SW WS Verifier",
       "description": "No Dues Verifier for SW and WS"
+    },
+    {
+      "code": "GC_VERIFIER",
+      "name": "GC Verifier",
+      "description": "Verifier who only verifies Garbage application"
+    },
+    {
+      "code": "GC_APPROVER",
+      "name": "GC Approver",
+      "description": "Approver who only approves Garbage application"
     }
   ]
 }

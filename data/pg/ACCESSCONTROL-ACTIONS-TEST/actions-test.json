@@ -26658,6 +26658,58 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/gc-home"
+    },
+    {
+      "id": 4423,
+      "name": "Search Garbage Accounts",
+      "url": "/garbage-service/garbage-accounts/_search",
+      "displayName": "Search Garbage Accounts",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4424,
+      "name": "Fetch Garbage Account Actions",
+      "url": "/garbage-service/garbage-accounts/fetch/ACTIONS",
+      "displayName": "Fetch Garbage Account Actions",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4425,
+      "name": "Calculate Garbage Account Fee",
+      "url": "/garbage-service/garbage-accounts/fetch/CALCULATEFEE",
+      "displayName": "Calculate Garbage Account Fee",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4426,
+      "name": "Update Garbage Accounts",
+      "url": "/garbage-service/garbage-accounts/_update",
+      "displayName": "Update Garbage Accounts",
+      "orderNumber": 1,
+      "queryParams": null,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
     }
 
   ]
