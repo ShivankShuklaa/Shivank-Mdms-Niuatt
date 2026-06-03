@@ -14234,42 +14234,6 @@
       "sidebarURL": "/digit-ui/citizen/pt-home"
     },
     {
-      "id": 2350,
-      "name": "PT_SEARCH_AND_PAY",
-      "url": "digit-ui-card",
-      "displayName": "Search and Pay",
-      "orderNumber": 1,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/citizen-search",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
-    {
-      "id": 2351,
-      "name": "PT_CREATE_PROPERTY",
-      "url": "digit-ui-card",
-      "displayName": "Register Property",
-      "orderNumber": 3,
-      "parentModule": "PT",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/pt/property/new-application/info",
-      "leftIcon": "propertyIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/pt-home"
-    },
-    {
       "id": 2475,
       "name": "ObpsDailyCollectionReport",
       "url": "url",
@@ -26768,8 +26732,43 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Budget.Function Wise Budget Head",
          "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
-      }
-
+      },
+	  {
+      "id": 4431,
+      "name": "PT_SEARCH_AND_PAY",
+      "url": "digit-ui-card",
+      "displayName": "Search and Pay",
+      "orderNumber": 1,
+      "parentModule": "PT",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pt/property/citizen-search",
+      "leftIcon": "propertyIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/pt-home"
+    },
+    {
+      "id": 4432,
+      "name": "PT_CREATE_PROPERTY",
+      "url": "digit-ui-card",
+      "displayName": "Register Property",
+      "orderNumber": 3,
+      "parentModule": "PT",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/pt/property/new-application/info",
+      "leftIcon": "propertyIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/pt-home"
+    }
 
   ]
 }
