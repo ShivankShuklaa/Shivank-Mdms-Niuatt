@@ -181,6 +181,12 @@
       "description": "FSM Executive",
       "code": "DESIG_200",
       "active": true
+    },
+    {
+      "name": "Executive Officer",
+      "description": "Executive Officer",
+      "code": "DESIG_EO",
+      "active": true
     }
   ]
 }
