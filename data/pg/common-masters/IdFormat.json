@@ -821,6 +821,10 @@
         {
             "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NDC_RECEIPT_ID_[TENANT_ID]]",
             "idname": "ndc.receipt.id"
+        },
+        {
+            "format": "GB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "garbage.application.num"
         }
     ]
 }
