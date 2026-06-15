@@ -9,7 +9,7 @@
          "feeType": "EST_PENALTY_FEE",
          "rate": 5,
          "taxApplicable": false,
-         "description": "Interest is the tax head applicable  on the total previous bill amount or balance pending from the day bill expiry date exceeds. Interest applicable after 30 days is 5% of pending balance or total previous bill amount respectively."
+         "description": "A 5% penalty is applied on the next billing cycle when a previously generated monthly demand remains unpaid. The penalty is calculated on the total of the previous unpaid amount plus the current month's demand (previous unpaid + current month bill) × 5%."
         }
     ]
  }
