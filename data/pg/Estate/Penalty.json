@@ -1,0 +1,16 @@
+{
+    "tenantId": "pg",
+    "moduleName": "Estate",
+    "Penalty": [
+        {
+         "id":"1",
+         "applicationType": "ESTATE_SERVICE",
+         "serviceType": "NEW_BOOKING",
+         "feeType": "EST_PENALTY_FEE",
+         "rate": 5,
+         "taxApplicable": false,
+         "description": "Interest is the tax head applicable  on the total previous bill amount or balance pending from the day bill expiry date exceeds. Interest applicable after 30 days is 5% of pending balance or total previous bill amount respectively."
+        }
+    ]
+ }
+ 
