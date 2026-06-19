@@ -5,7 +5,7 @@
         {
             "venueId": "1",
             "venueName": "Phase 2 Community Hall, Sector 54",
-            "venueCode": "Sector_54_Phase_2",
+            "venueCode": "HallCode",
             "geoLocation": "28.564143,77.123490",
             "contactDetails": "011-25695450",
             "venueDescription": "Two Halls, One Ground floor & One First floor. Can accomodate 200-250 people.",
@@ -19,7 +19,7 @@
         {
             "venueId": "2",
             "venueName": "Phase 1 Community Hall, Sector 55",
-            "venueCode": "Sector_55_Phase_1",
+            "venueCode": "HallCode",
             "code": "Sector_55_Phase_1",
             "address": "Sector 55 Phase 1",
             "geoLocation": "28.564143,77.123490",
@@ -33,7 +33,7 @@
         {
             "venueId": "3",
             "venueName": "Phase 5 Community Hall, Sector 59",
-            "venueCode": "Sector_59_Phase_5",
+            "venueCode": "HallCode",
             "code": "Sector_59_Phase_5",
             "address": "Sector 59 Phase 5",
             "geoLocation": "28.564143,77.123490",
@@ -47,7 +47,7 @@
         {
             "venueId": "4",
             "venueName": "Phase 7 Community Hall, Sector 61",
-            "venueCode": "Sector_61_Phase_7",
+            "venueCode": "HallCode",
             "code": "Sector_61_Phase_7",
             "address": "Sector 61 Phase 7",
             "geoLocation": "28.564143,77.123490",
@@ -61,7 +61,7 @@
         {
             "venueId": "5",
             "venueName": "Phase 11 Community Hall, Sector 65",
-            "venueCode": "Sector_65_Phase_11",
+            "venueCode": "HallCode",
             "code": "Sector_65_Phase_11",
             "address": "Sector 65 Phase 11",
             "geoLocation": "28.564143,77.123490",
@@ -75,7 +75,7 @@
         {
             "venueId": "6",
             "venueName": "Sector 69",
-            "venueCode": "Sector_69",
+            "venueCode": "HallCode",
             "code": "Sector_69",
             "address": "Sector 69",
             "geoLocation": "28.564143,77.123490",
@@ -90,7 +90,7 @@
             "venueId": "7",
             "venueName": "Sector 70",
             "code": "Sector_70",    
-            "venueCode": "Sector_70",
+            "venueCode": "HallCode",
             "address": "Sector 70",
             "geoLocation": "28.564143,77.123490",
             "contactDetails": "011-25695450",
@@ -104,7 +104,7 @@
             "venueId": "8",
             "venueName": "Sector 71",
             "code": "Sector_71",
-            "venueCode": "Sector_71",
+            "venueCode": "HallCode",
             "address": "Sector 71",
             "geoLocation": "28.564143,77.123490",
             "contactDetails": "011-25695450",

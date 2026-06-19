@@ -5,7 +5,7 @@
     {
       "venueId": "1",
       "venueName": "District Sports Stadium",
-      "venueCode": "DISTRICT_SPORTS_STADIUM",
+      "venueCode": "StadiumCode",
       "geoLocation": "28.596320,77.121770",
       "address": "Sadar Bazar, Delhi Cantt",
       "contactDetails": "011-25692001",
@@ -20,7 +20,7 @@
     {
       "venueId": "2",
       "venueName": "DAV Sports Ground",
-      "venueCode": "DAV_SPORTS_GROUND",
+      "venueCode": "StadiumCode",
       "geoLocation": "28.595000,77.122000",
       "address": "Near DAV School",
       "contactDetails": "011-25692002",

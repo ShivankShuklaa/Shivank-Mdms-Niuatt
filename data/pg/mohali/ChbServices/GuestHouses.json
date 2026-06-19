@@ -13,13 +13,14 @@
       "bookingPolicy": "Booking subject to availability. ID proof required at check-in.",
       "venueDescription": "",
       "termsAndCondition": "",
+      "venueCode": "GuestHouseCode",
       "facilities": ["AC Rooms", "Hot Water", "Dining Area", "Parking"],
       "active": true
     },
     {
       "venueId": "2",
       "venueName": "Community Guest House",
-      "venueCode": "COMMUNITY_GUEST_HOUSE",
+      "venueCode": "GuestHouseCode",
       "geoLocation": "28.5934095,77.1195994",
       "address": "Sadar Bazar",
       "contactDetails": "011-25693002",

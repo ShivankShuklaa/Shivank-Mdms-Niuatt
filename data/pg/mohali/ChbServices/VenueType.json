@@ -3,37 +3,37 @@
     "moduleName": "CHB",
     "Venues": [
         {
-            "name": "Park",
+            "name": "Parks",
             "active": true,
-            "venueType": "PARK",
-            "code": "PARK",
+            "venueType": "PARKS",
+            "code": "PARKS",
             "timeSlot":{
                 "maxDuration": "6:00",
                 "minDuration": "1:00"
             }
         },
         {
-            "name": "Stadium",
+            "name": "Stadiums",
             "active": true,
-            "venueType": "STADIUM",
-            "code": "STADIUM",
+            "venueType": "STADIUMS",
+            "code": "STADIUMS",
             "timeSlot":{
                 "maxDuration": "6:00",
                 "minDuration": "1:00"
             }
         },
         {
-            "name": "Community Hall",
+            "name": "CommunityHalls",
             "active": true,
-            "venueType": "COMMUNITY_HALL",
-            "code": "COMMUNITY_HALL",
+            "venueType": "COMMUNITY_HALLS",
+            "code": "COMMUNITY_HALLS",
             "timeSlot":{
                 "maxDuration": "23:59",
                 "minDuration": "1:00"
             }
         },
         {
-            "name": "Guest House",
+            "name": "GuestHouses",
             "active": true,
             "venueType": "GUEST_HOUSE",
             "code": "GUEST_HOUSE",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "name": "Crematorium",
+            "name": "Crematoriums",
             "active": true,
             "venueType": "CREMATORIUM",
             "code": "CREMATORIUM",

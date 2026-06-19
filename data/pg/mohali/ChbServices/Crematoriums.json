@@ -5,7 +5,7 @@
     {
       "venueId": "1",
       "venueName": "Sadar Crematorium",
-      "venueCode": "SADAR_CREMATORIUM",
+      "venueCode": "CrematoriumCode",
       "code": "SADAR_CREMATORIUM",
       "geoLocation": "28.594000,77.120000",
       "address": "Sadar Bazar, Delhi Cantt",
@@ -19,7 +19,7 @@
     {
       "venueId": "2",
       "venueName": "Northside Crematorium",
-      "venueCode": "NORTHSIDE_CREMATORIUM",
+      "venueCode": "CrematoriumCode",
       "code": "NORTHSIDE_CREMATORIUM",
       "geoLocation": "28.605000,77.115000",
       "address": "Old Nangal Road",
