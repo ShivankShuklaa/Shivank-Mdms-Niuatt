@@ -6,31 +6,51 @@
             "name": "Park",
             "active": true,
             "venueType": "PARK",
-            "code": "PARK"
+            "code": "PARK",
+            "timeSlot":{
+                "maxDuration": "6:00",
+                "minDuration": "1:00"
+            }
         },
         {
             "name": "Stadium",
             "active": true,
             "venueType": "STADIUM",
-            "code": "STADIUM"
+            "code": "STADIUM",
+            "timeSlot":{
+                "maxDuration": "6:00",
+                "minDuration": "1:00"
+            }
         },
         {
             "name": "Community Hall",
             "active": true,
             "venueType": "COMMUNITY_HALL",
-            "code": "COMMUNITY_HALL"
+            "code": "COMMUNITY_HALL",
+            "timeSlot":{
+                "maxDuration": "23:59",
+                "minDuration": "1:00"
+            }
         },
         {
             "name": "Guest House",
             "active": true,
             "venueType": "GUEST_HOUSE",
-            "code": "GUEST_HOUSE"
+            "code": "GUEST_HOUSE",
+            "timeSlot":{
+                "maxDuration": "4:00",
+                "minDuration": "1:00"
+            }
         },
         {
             "name": "Crematorium",
             "active": true,
             "venueType": "CREMATORIUM",
-            "code": "CREMATORIUM"
+            "code": "CREMATORIUM",
+            "timeSlot":{
+                "maxDuration": "10:00",
+                "minDuration": "1:00"
+            }
         }
     ]
 }

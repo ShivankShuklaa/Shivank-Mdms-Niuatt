@@ -7,9 +7,6 @@
       "codeId": "1",
       "code": "GuestHouse Code-5001",
       "rooms": "12",
-      "timeSlots": [
-        { "id": "1", "from": "00:00", "duration": "24:00" }
-      ],
       "active": true
     },
     {
@@ -17,9 +14,6 @@
       "codeId": "2",
       "code": "GuestHouse Code-5002",
       "rooms": "6",
-      "timeSlots": [
-        { "id": "1", "from": "00:00", "duration": "24:00" }
-      ],
       "active": true
     }
   ]
