@@ -1,0 +1,24 @@
+{
+  "tenantId": "pg.mohali",
+  "moduleName": "CHB",
+  "StadiumCode": [
+    {
+      "venueId": "1",
+      "codeId": "1",
+      "code": "Stadium Code-4001",
+      "capacity": "5000",
+      "active": true,
+      "venueCode": "DISTRICT_SPORTS_STADIUM",
+      "venueType": "STADIUM"
+    },
+    {
+      "venueId": "2",
+      "codeId": "2",
+      "code": "Stadium Code-4002",
+      "capacity": "1500",
+      "active": true,
+      "venueCode": "DAV_SPORTS_GROUND",
+      "venueType": "STADIUM"
+    }
+  ]
+}

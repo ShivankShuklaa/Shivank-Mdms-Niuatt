@@ -1,0 +1,35 @@
+{
+  "tenantId": "pg.mohali",
+  "moduleName": "CHB",
+  "Crematoriums": [
+    {
+      "venueId": "1",
+      "venueName": "Sadar Crematorium",
+      "venueCode": "SADAR_CREMATORIUM",
+      "code": "SADAR_CREMATORIUM",
+      "geoLocation": "28.594000,77.120000",
+      "address": "Sadar Bazar, Delhi Cantt",
+      "contactDetails": "011-25691001",
+      "services": ["Electric Cremation", "Wooden Pyre Area", "Waiting Room"],
+      "venueDescription": "",
+      "termsAndCondition": "",
+      "active": true,
+      "venueType": "CREMATORIUM"
+    },
+    {
+      "venueId": "2",
+      "venueName": "Northside Crematorium",
+      "venueCode": "NORTHSIDE_CREMATORIUM",
+      "code": "NORTHSIDE_CREMATORIUM",
+      "geoLocation": "28.605000,77.115000",
+      "address": "Old Nangal Road",
+      "contactDetails": "011-25691002",
+      "services": ["Electric Cremation", "Vehicle Parking"],
+      "venueDescription": "",
+      "termsAndCondition": "",
+      "active": true,
+      "venueType": "CREMATORIUM"
+    }
+  ]
+}
+

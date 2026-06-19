@@ -1,0 +1,36 @@
+{
+    "tenantId": "pg.mohali",
+    "moduleName": "CHB",
+    "Venues": [
+        {
+            "name": "Park",
+            "active": true,
+            "venueType": "PARK",
+            "code": "PARK"
+        },
+        {
+            "name": "Stadium",
+            "active": true,
+            "venueType": "STADIUM",
+            "code": "STADIUM"
+        },
+        {
+            "name": "Community Hall",
+            "active": true,
+            "venueType": "COMMUNITY_HALL",
+            "code": "COMMUNITY_HALL"
+        },
+        {
+            "name": "Guest House",
+            "active": true,
+            "venueType": "GUEST_HOUSE",
+            "code": "GUEST_HOUSE"
+        },
+        {
+            "name": "Crematorium",
+            "active": true,
+            "venueType": "CREMATORIUM",
+            "code": "CREMATORIUM"
+        }
+    ]
+}
