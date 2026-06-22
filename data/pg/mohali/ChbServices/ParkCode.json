@@ -5,7 +5,7 @@
     {
       "venueId": "1",
       "codeId": "1",
-      "code": "Park Section-2001",
+      "code": "CP_Park Section-2001",
       "capacity": "500",
       "active": true,
       "venueCode": "CENTRAL_PARK",
@@ -33,7 +33,7 @@
     {
       "venued": "1",
       "codeId": "2",
-      "code": "Park Section-2002",
+      "code": "CP_Park Section-2002",
       "capacity": "300",
       "active": true,
       "venueCode": "CENTRAL_PARK",
@@ -61,7 +61,7 @@
     {
       "venueId": "2",
       "codeId": "2",
-      "code": "Park Section-2001",
+      "code": "DP_Park Section-2001",
       "capacity": "300",
       "active": true,
       "venueCode": "DUSSEHRA_PARK",
