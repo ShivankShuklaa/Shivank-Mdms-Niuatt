@@ -7,11 +7,11 @@
             "codeId": "1",
             "code": "Hall Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
@@ -23,11 +23,11 @@
             "hallId": "2",
             "code": "Hall Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
@@ -39,11 +39,11 @@
             "hallId": "3",
             "code": "Hall Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
@@ -55,11 +55,11 @@
             "hallId": "4",
             "code": "Hall Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
@@ -71,11 +71,11 @@
             "hallId": "5",
             "code": "Hall Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
@@ -87,11 +87,11 @@
             "hallId": "6",
             "code": "Hall Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
@@ -103,11 +103,11 @@
             "hallId": "7",
             "code": "Hall Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
@@ -119,11 +119,11 @@
             "hallId": "8",
             "code": "Hall Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
