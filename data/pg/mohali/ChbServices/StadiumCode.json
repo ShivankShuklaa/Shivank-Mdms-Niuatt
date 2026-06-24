@@ -5,7 +5,7 @@
     {
       "venueId": "1",
       "codeId": "1",
-      "code": "Stadium Code-4001",
+      "code": "Stadium_Code-4001",
       "capacity": "5000",
       "active": true,
       "venueCode": "DISTRICT_SPORTS_STADIUM",
@@ -33,7 +33,7 @@
     {
       "venueId": "2",
       "codeId": "2",
-      "code": "Stadium Code-4002",
+      "code": "Stadium_Code-4002",
       "capacity": "1500",
       "active": true,
       "venueCode": "DAV_SPORTS_GROUND",

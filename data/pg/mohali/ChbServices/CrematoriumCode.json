@@ -5,10 +5,10 @@
     {
       "venueId": "1",
       "codeId": "1",
-      "code": "Crematorium Code-3001",
+      "code": "Crematorium_Code-3001",
       "venueCode": "SADAR_CREMATORIUM",
       "capacity": "200 People",
-      "timeSlots": [
+      "timeSlot": [
         {
           "id": "1",
           "from": "06:00",
@@ -21,10 +21,10 @@
     {
       "venueId": "1",
       "codeId": "2",
-      "code": "Crematorium Code-3002",
+      "code": "Crematorium_Code-3002",
       "venueCode": "NORTHSIDE_CREMATORIUM",
       "capacity": "400 People",
-      "timeSlots": [
+      "timeSlot": [
         {
           "id": "1",
           "from": "06:00",
