@@ -151,7 +151,7 @@
                 "name": "totalFloorArea",
                 "placeholder": "EST_ENTER_TOTAL_PLOT_AREA",
                 "type": "text",
-                "unit": "( In sq.ft)"
+                "unit": "(In sq.ft)"
               },
               "validation": {
                 "pattern": "^[0-9]+$",
@@ -172,7 +172,7 @@
               "key": "EST_DIMENSION",
               "label": {
                 "code": "EST_DIMENSION",
-                "unit": "( In sq.ft)"
+                "unit": "(In sq.ft)"
               },
               "type": "group",
               "children": [
