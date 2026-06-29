@@ -4801,7 +4801,7 @@
       "serviceCode": "TL",
       "code": "null",
       "path": "TradeLicense.Trade License Reports.TradeWiseCollectionReport",
-      "navigationURL": "report/rainmaker-tl/TradeWiseCollectionReport",
+      "navigationURL": "/upyog-ui/employee/tl/TradeWiseCollectionReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -4816,7 +4816,7 @@
       "serviceCode": "TL",
       "code": "null",
       "path": "TradeLicense.Trade License Reports.StateLevelStatus",
-      "navigationURL": "report/rainmaker-tl/StateLevelStatus",
+      "navigationURL": "/upyog-ui/employee/tl/StateLevelStatus",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -7141,7 +7141,7 @@
       "serviceCode": "",
       "code": "null",
       "path": "TradeLicense.Trade License Reports.State Level Trade License Registry Report",
-      "navigationURL": "report/rainmaker-tl/StateLevelTradeLicenseRegistryReport",
+      "navigationURL": "/upyog-ui/employee/tl/StateLevelTradeLicenseRegistryReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -9895,7 +9895,7 @@
       "serviceCode": "",
       "code": "null",
       "path": "FSM.Reports.FSMDailyCollectionReport",
-      "navigationURL": "report/fsm/FSMDailyCollectionReport",
+      "navigationURL": "/upyog-ui/employee/fsm/FSMDailyCollectionReport",
       "leftIcon": "action:description",
       "rightIcon": ""
     },
@@ -9910,7 +9910,7 @@
       "serviceCode": "FSM",
       "code": "null",
       "path": "FSM.Reports.FSMRequestReport",
-      "navigationURL": "report/fsm/FSMRequestReport",
+      "navigationURL": "/upyog-ui/employee/fsm/FSMRequestReport",
       "leftIcon": "action:description",
       "rightIcon": ""
     },
@@ -14244,7 +14244,7 @@
       "serviceCode": "OBPS",
       "code": "null",
       "path": "OBPS.Obps Reports.ObpsDailyCollectionReport",
-      "navigationURL": "report/rainmaker-obps/ObpsDailyCollectionReport",
+      "navigationURL": "/upyog-ui/employee/obps/ObpsDailyCollectionReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -14283,7 +14283,7 @@
       "serviceCode": "OBPS",
       "code": "null",
       "path": "OBPS.Obps Reports.ObpsApplicationStatusReport",
-      "navigationURL": "report/rainmaker-obps/ObpsApplicationStatusReport",
+      "navigationURL": "/upyog-ui/employee/obps/ObpsApplicationStatusReport",
       "leftIcon": "action:assignment",
       "rightIcon": ""
     },
@@ -20059,7 +20059,7 @@
       "serviceCode": "",
       "code": "null",
       "path": "FSM.Reports.TQMTest",
-      "navigationURL": "report/fsm/TQMTest",
+      "navigationURL": "/upyog-ui/employee/fsm/TQMTest",
       "leftIcon": "action:description",
       "rightIcon": ""
     },
@@ -20317,7 +20317,7 @@
         "serviceCode": "ASSET",
         "code": "null",
         "path": "Asset.Reports.AssetMaintenanceReport",
-        "navigationURL": "report/rainmaker-asset/AssetMaintenanceReport",
+        "navigationURL": "/upyog-ui/employee/asset/AssetMaintenanceReport",
         "leftIcon": "places:business-center",
         "rightIcon": ""
       },
@@ -20418,7 +20418,7 @@
         "serviceCode": "CHB",
         "code": "null",
         "path": "CHB.Reports.CHBRefundReport",
-        "navigationURL": "report/rainmaker-CHB/CHBRefundReport",
+        "navigationURL": "/upyog-ui/employee/chb/CHBRefundReport",
         "leftIcon": "places:business-center",
         "rightIcon": ""
       },
@@ -20736,7 +20736,7 @@
         "serviceCode": "PTR",
         "code": "null",
         "path": "PTR.Reports.PetReport",
-        "navigationURL": "report/rainmaker-pet/PetReport",
+        "navigationURL": "/upyog-ui/employee/ptr/PetReport",
         "leftIcon": "places:business-center",
         "rightIcon": ""
       },
@@ -20781,7 +20781,7 @@
         "serviceCode": "ADS",
         "code": "null",
         "path": "ADS.Reports.AdvApplicationReport",
-        "navigationURL": "report/rainmaker-ads/AdvApplicationReport",
+        "navigationURL": "/upyog-ui/employee/ads/AdvApplicationReport",
         "leftIcon": "places:business-center",
         "rightIcon": ""
       },
@@ -21303,7 +21303,7 @@
       "serviceCode": "CND",
       "code": "null",
       "path": "CND.Reports.CNDApplicationReport",
-      "navigationURL": "report/rainmaker-CND/CNDApplicationReport",
+      "navigationURL": "/cnd-ui/employee/cnd/CNDApplicationReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -21721,7 +21721,7 @@
       "serviceCode": "CHB",
       "code": "null",
       "path": "CHB.Reports.PaymentRefundReport",
-      "navigationURL": "report/rainmaker-CHB/PaymentRefundReport",
+      "navigationURL": "/upyog-ui/employee/chb/PaymentRefundReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
