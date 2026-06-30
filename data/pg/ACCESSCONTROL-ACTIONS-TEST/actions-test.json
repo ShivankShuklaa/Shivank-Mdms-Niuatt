@@ -30123,6 +30123,45 @@
     "serviceCode": "MDMS",
     "code": "null",
     "path": ""
+  },
+  {
+    "id": 4705,
+    "name": "eWasteRegisterReport",
+    "url": "url",
+    "displayName": "eWaste Register Report",
+    "orderNumber": 1,
+    "parentModule": "rainmaker-ew",
+    "enabled": true,
+    "serviceCode": "EW",
+    "code": "null",
+    "path": "EW.E-Waste Reports.eWasteRegisterReport",
+    "navigationURL": "/upyog-ui/employee/ew/eWasteRegisterReport",
+    "leftIcon": "action:assignment",
+    "rightIcon": ""
+  },
+  {
+    "id": 4706,
+    "name": "eWasteRegisterReport",
+    "url": "/report/rainmaker-ew/eWasteRegisterReport/metadata/_get",
+    "displayName": "rainmaker-ew-eWasteRegisterReport",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "report",
+    "code": "null",
+    "path": ""
+  },
+  {
+    "id": 4707,
+    "name": "eWasteRegisterReport",
+    "url": "/report/rainmaker-ew/eWasteRegisterReport/_get",
+    "displayName": "rainmaker-ew-eWasteRegisterReport",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": true,
+    "serviceCode": "report",
+    "code": "null",
+    "path": ""
   }
   ]
 }

@@ -38143,6 +38143,24 @@
     "actionid": 4704,
     "actioncode": "",
     "tenantId": "pg"
+  },
+  {
+    "rolecode": "EW_VENDOR",
+    "actionid": 4705,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "EW_VENDOR",
+    "actionid": 4706,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "EW_VENDOR",
+    "actionid": 4707,
+    "actioncode": "",
+    "tenantId": "pg"
   } 
   ]
 }
