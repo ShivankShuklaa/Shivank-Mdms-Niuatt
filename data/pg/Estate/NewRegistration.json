@@ -126,9 +126,9 @@
                 }
               },
               "validation": {
-                "required": false,
+                "required": true,
                 "disabled": true,
-                "readOnly": false
+                "readOnly": true
               }
             },
             {
@@ -148,7 +148,7 @@
                 }
               },
               "validation": {
-                "required": false,
+                "required": true,
                 "disabled": false,
                 "readOnly": false
               }
@@ -294,7 +294,7 @@
                 }
               },
               "validation": {
-                "required": false,
+                "required": true,
                 "disabled": false,
                 "readOnly": false
               }
