@@ -2,7 +2,7 @@
 {
   "tenantId": "pg",
   "moduleName": "Estate",
-  "assignAssetConfig": [
+  "AssignAssetConfig": [
   {
     "head": "EST_COMMON_ALLOTMENT",
     "body": [
@@ -201,8 +201,8 @@
           {
             "order": 18,
             "key": "EST_RATE_PER_SQFT",
-"           "field": { "code": "EST_RATE_PER_SQFT", "name": "rentRate", "type": "text", "placeholder": "EST_ENTER_RATE", "unit": "Per sq. ft." },
-"            "validation": {
+          "field": { "code": "EST_RATE_PER_SQFT", "name": "rentRate", "type": "text", "placeholder": "EST_ENTER_RATE", "unit": "Per sq. ft." },
+           "validation": {
               "maxLength": 12,
               "pattern": "^[0-9]+(\\.[0-9]{1,2})?$",
               "regex": { "pattern": "[^0-9.]", "flags": "g" },
