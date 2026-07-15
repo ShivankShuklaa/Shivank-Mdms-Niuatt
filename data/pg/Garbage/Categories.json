@@ -4,32 +4,38 @@
   "Categories": [
     {
       "id": "1",
-      "categories": "RESIDENTIAL",
+      "name": "Residential",
+      "code": "RESIDENTIAL",
       "active": true
     },
     {
       "id": "2",
-      "categories": "COMMERCIAL",
+      "name": "Commercial",
+      "code": "COMMERCIAL",
       "active": true
     },
     {
       "id": "3",
-      "categories": "INDUSTRIES",
+      "name": "Industries",
+      "code": "INDUSTRIES",
       "active": true
     },
     {
       "id": "4",
-      "categories": "HOSPITALS_AND_HEALTH_CARE",
+      "name": "Hospitals and Health Care",
+      "code": "HOSPITALS_AND_HEALTH_CARE",
       "active": true
     },
     {
       "id": "5",
-      "categories": "GOVT_ESTABLISHMENTS",
+      "name": "Government Establishments",
+      "code": "GOVT_ESTABLISHMENTS",
       "active": true
     },
     {
       "id": "6",
-      "categories": "OTHERS",
+      "name": "Others",
+      "code": "OTHERS",
       "active": true
     }
   ]

@@ -1,10 +1,10 @@
 {
   "tenantId": "pg",
   "moduleName": "Garbage",
-  "OwnerShipType": [
+  "SpeacialCategories": [
     {
       "name": "Freedom Fighter",
-      "code": "FREEDOMFIGHTER",
+      "code": "FREEDOM_FIGHTER",
       "active": true
     },
     {
@@ -13,7 +13,7 @@
       "active": true
     },
     {
-      "name": "Handicapped Person",
+      "name": "Handicapped",
       "code": "HANDICAPPED",
       "active": true
     },
@@ -23,8 +23,8 @@
       "active": true
     },
     {
-      "name": "Defense Personnel",
-      "code": "DEFENSE",
+      "name": "Defence Personnel",
+      "code": "DEFENCE_PERSONNEL",
       "active": true
     },
     {
