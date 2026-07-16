@@ -6022,7 +6022,7 @@
       "category": "REBATE",
       "service": "garbage-service",
       "name": "Garbage Rebate",
-      "code": "GC_RENTAL_FEE",
+      "code": "GC_REBATE_FEE",
       "isDebit": false,
       "isActualDemand": false,
       "order": "2",
