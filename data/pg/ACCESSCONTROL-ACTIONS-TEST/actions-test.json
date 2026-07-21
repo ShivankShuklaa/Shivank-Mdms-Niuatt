@@ -26713,7 +26713,7 @@
     {
       "id": 4423,
       "name": "Search Garbage Accounts",
-      "url": "/garbage-service/garbage-accounts/_search",
+      "url": "/gc-services/garbage-accounts/_search",
       "displayName": "Search Garbage Accounts",
       "orderNumber": 1,
       "queryParams": null,
@@ -26726,7 +26726,7 @@
     {
       "id": 4424,
       "name": "Fetch Garbage Account Actions",
-      "url": "/garbage-service/garbage-accounts/fetch/ACTIONS",
+      "url": "/gc-services/garbage-accounts/fetch/ACTIONS",
       "displayName": "Fetch Garbage Account Actions",
       "orderNumber": 1,
       "queryParams": null,
@@ -26739,7 +26739,7 @@
     {
       "id": 4425,
       "name": "Calculate Garbage Account Fee",
-      "url": "/garbage-service/garbage-accounts/fetch/CALCULATEFEE",
+      "url": "/gc-services/garbage-accounts/fetch/CALCULATEFEE",
       "displayName": "Calculate Garbage Account Fee",
       "orderNumber": 1,
       "queryParams": null,
@@ -26752,7 +26752,7 @@
     {
       "id": 4426,
       "name": "Update Garbage Accounts",
-      "url": "/garbage-service/garbage-accounts/_update",
+      "url": "/gc-services/garbage-accounts/_update",
       "displayName": "Update Garbage Accounts",
       "orderNumber": 1,
       "queryParams": null,
@@ -26859,7 +26859,7 @@
     {
       "id": 4433,
       "name": "Search Garbage Accounts",
-      "url": "/garbage-service/garbage-accounts/_create",
+      "url": "/gc-services/garbage-accounts/_create",
       "displayName": "Search Garbage Accounts",
       "orderNumber": 1,
       "queryParams": null,
