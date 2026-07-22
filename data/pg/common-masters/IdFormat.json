@@ -812,7 +812,7 @@
         },
         {
             "format": "EST/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "estate.management.receipt.id"
+            "idname": "est-services.receipt.id"
         },
         {
             "format": "PG-RF-[cy:yyyy-MM-dd]-[SEQ_EG_PG_REFUND]",
