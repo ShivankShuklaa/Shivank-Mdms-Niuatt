@@ -30191,6 +30191,18 @@
     "queryParams": "",
     "sidebar": "digit-ui-links",
     "sidebarURL": "/digit-ui/citizen/firenoc-home"
+  },
+  {
+    "id": 4710,
+    "name": "Search EST Services",
+    "url": "/collection-services/payments/est-services/_search",
+    "displayName": "Search EST Services",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
   }
   ]
 }
