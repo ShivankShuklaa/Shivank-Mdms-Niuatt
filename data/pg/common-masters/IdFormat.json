@@ -807,7 +807,7 @@
             "idname": "estate.management.asset.id"
         },
         {
-            "format": "EST-[CITY.CODE]-[seq_estate_management_allotment_no]",
+            "format": "EST-AL-[CITY.CODE]-[seq_estate_management_allotment_no]",
             "idname": "estate.management.allotment.no"
         },
         {

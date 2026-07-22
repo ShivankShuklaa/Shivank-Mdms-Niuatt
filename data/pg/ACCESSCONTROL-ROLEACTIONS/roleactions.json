@@ -38233,6 +38233,30 @@
     "actionid": 4710,
     "actioncode": "",
     "tenantId": "pg"
+  },
+  {
+    "rolecode": "EST_CEMP",
+    "actionid": 1752,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "EST_CEMP",
+    "actionid": 1863,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "EST_CEMP",
+    "actionid": 1864,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "EST_CEMP",
+    "actionid": 1865,
+    "actioncode": "",
+    "tenantId": "pg"
   }
   ]
 }
