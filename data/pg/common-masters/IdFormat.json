@@ -807,8 +807,8 @@
             "idname": "estate.management.asset.id"
         },
         {
-            "format": "EST-[CITY.CODE]-[seq_estate_management_allotment_id]",
-            "idname": "estate.management.allotment.id"
+            "format": "EST-[CITY.CODE]-[seq_estate_management_allotment_no]",
+            "idname": "estate.management.allotment.no"
         },
         {
             "format": "EST/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
