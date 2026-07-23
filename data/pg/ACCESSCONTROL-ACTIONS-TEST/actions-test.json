@@ -30180,9 +30180,9 @@
     "url": "digit-ui-card",
     "displayName": "New Application",
     "orderNumber": 1,
-    "parentModule": "FIRENOC",
+    "parentModule": "FireNoc",
     "enabled": true,
-    "serviceCode": "FIRENOC",
+    "serviceCode": "FireNoc",
     "code": "null",
     "path": "",
     "navigationURL": "/digit-ui/citizen/firenoc/new-application",
@@ -30215,12 +30215,12 @@
     "serviceCode": "",
     "code": "",
     "path": "",
-    "navigationURL": "/citizen/fire-noc/my-applications",
+    "navigationURL": "/digit-ui/citizen/firenoc/my-applications",
     "leftIcon": "FirenocIcon",
     "rightIcon": "",
     "queryParams": "",
     "sidebar": "digit-ui-links",
-    "sidebarURL": "/citizen/fire-noc/home"
+    "sidebarURL": "/digit-ui/citizen/firenoc-home"
   }
   ]
 }
