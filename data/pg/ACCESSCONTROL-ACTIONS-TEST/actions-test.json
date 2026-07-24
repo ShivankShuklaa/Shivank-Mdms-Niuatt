@@ -30221,6 +30221,18 @@
     "queryParams": "",
     "sidebar": "digit-ui-links",
     "sidebarURL": "/digit-ui/citizen/firenoc-home"
-  }
+  },
+  {
+      "id": 4712,
+      "name": "National Dashboard Pet Registration",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-ptr",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
+      "code": "null",
+      "path": ""
+    }
   ]
 }
